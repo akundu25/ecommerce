@@ -455,7 +455,7 @@ padding: 30px 65px;
 .reviews{
   color: #f02d34;
   margin-top: 10px;
-  display: flex;
+  /* display: flex; */
   gap: 5px;
   align-items: center;
 }
